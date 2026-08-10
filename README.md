@@ -5,8 +5,8 @@ The dataset was taken from Kaggle and contains customer feedback for British Air
 
 DASHBOARD PREVIEW:
 
-images/dashboard_screenshot.png
-
+![Preview](<images/Preview 1.png>)
+![Preview 2](<images/Preview 2.png>)
 
 
 GOAL:
