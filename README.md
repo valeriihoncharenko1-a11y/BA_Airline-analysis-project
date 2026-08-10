@@ -1,12 +1,16 @@
 BA AIRLINE REVIEWS
 The dataset was taken from Kaggle and contains customer feedback for British Airways, extracted from AirlineQuality through web scraping.
-
+Link: https://www.kaggle.com/datasets/chaudharyanshul/airline-reviews/data
 
 
 DASHBOARD PREVIEW:
 
 ![Preview](<images/Preview 1.png>)
 ![Preview 2](<images/Preview 2.png>)
+
+Link:
+https://public.tableau.com/views/Airline_17858676207880/BAAirlineReviews?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 
 GOAL:
