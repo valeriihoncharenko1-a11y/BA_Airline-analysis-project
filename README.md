@@ -59,7 +59,7 @@ Adding filters to the dashboard for interactivity.
 
 
 INSIGHTS:
-The metrics most correlating with the overall rating are Seat Type, Cabin Staff Service, Ground Service, and Food and Beverages. All have a t-value over 50 and a p-value at 0.0001 each, which means that this data is not random. Therefore, in order to increase passenger satisfaction with the flight, improving these services must be a top priority.
+The metrics most influencing the overall rating are Seat Type, Cabin Staff Service, Ground Service, and Food and Beverages. All have a t-value over 50 and a p-value at 0.0001 each, which means that this data is not random. Therefore, in order to increase passenger satisfaction with the flight, improving these services must be a top priority.
 
 
 Note: Wifi and Connectivity and Inflight Entertainment metrics have a percentage of null values above 30 percent; therefore, when attempting to draw conclusions based on this data, it should be interpreted with caution.
